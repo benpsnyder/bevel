@@ -1,0 +1,19 @@
+{
+  "name": "bevel",
+  "devDependencies": {
+    "@nrwl/cli": "latest",
+    "@nrwl/devkit": "^13.4.3",
+    "@nrwl/js": "^13.4.3",
+    "@nrwl/linter": "^13.4.3",
+    "@nrwl/nest": "^13.4.3",
+    "@nrwl/tao": "latest",
+    "@nrwl/workspace": "latest",
+    "@nx-go/nx-go": "^2.0.0",
+    "@yarnpkg/plugin-dlx": "^3.1.1",
+    "concurrently": "^7.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier-plugin-jsdoc": "^0.3.30",
+    "typescript": "4.2.4"
+  }
+}
